@@ -1,5 +1,5 @@
 # Tailwind dashboard
-This is a restaurant page done using sass.
+This is a dashboard page done using tailwind.
 
 The following commands are used:
 
