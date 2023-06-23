@@ -1,4 +1,4 @@
-# Sass restaurant page
+# Tailwind dashboard
 This is a restaurant page done using sass.
 
 The following commands are used:
